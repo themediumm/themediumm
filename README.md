@@ -1,8 +1,8 @@
-- 👋 Hi, I’m The Medium
-- 👀 I’m interested in Web Development and Gaming
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on Websites 
-- 📫 Reach me at me@themedium.tech
+- 👋 Hi, I’m Sai Sriram 
+- 👀 I’m interested in , Competitive programming, Linux, Web Development and Gaming
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on projects
+-  📫 Reach me at snayuduchintala@gmail.com
 
 <!---
 themediumm/themediumm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
